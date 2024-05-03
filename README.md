@@ -13,3 +13,4 @@
 * SVC
 
 Итоговый ROC-AUC: 0.99; Модель: TF-IDF + LogisticRegression
+/b Скоринг тестовых данных в файле submission.csv
