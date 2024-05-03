@@ -1,5 +1,5 @@
 # spam-classification
-Профильное задание ML-инженер
+Профильное задание ML-инженер в VK
 
 * TF-IDF
 * CountVectorizer
