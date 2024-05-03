@@ -2,7 +2,8 @@
 Профильное задание ML-инженер в VK
 
 ## Скоринг тестовых данных в файле submission.csv
-
+## Эксперименты с разными моделями в spam-detection.ipynb
+## Финальная модель и сабмишн в submit.ipynb
 Токенайзеры:
 * TF-IDF
 * CountVectorizer
