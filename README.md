@@ -1,6 +1,8 @@
 # spam-classification
 Профильное задание ML-инженер в VK
 
+**Скоринг тестовых данных в файле submission.csv**
+
 Токенайзеры:
 * TF-IDF
 * CountVectorizer
@@ -14,4 +16,4 @@
 
 Итоговый ROC-AUC: 0.99; Модель: TF-IDF + LogisticRegression
 
-***Скоринг тестовых данных в файле submission.csv***
+
