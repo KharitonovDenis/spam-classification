@@ -1,7 +1,7 @@
 # spam-classification
 Профильное задание ML-инженер в VK
 
-**Скоринг тестовых данных в файле submission.csv**
+## Скоринг тестовых данных в файле submission.csv
 
 Токенайзеры:
 * TF-IDF
